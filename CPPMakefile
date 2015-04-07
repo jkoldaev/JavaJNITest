@@ -1,0 +1,2 @@
+all:
+	g++ Fork.cpp -o Fork.so -shared
